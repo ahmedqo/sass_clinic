@@ -1,5 +1,5 @@
 @extends('shared.guest.base')
-@section('title', __('Sent Successfully'))
+@section('title', __('Envoyé avec succès'))
 
 @section('content')
     <section class="container mx-auto">
@@ -14,7 +14,7 @@
                 <div class="check-shadow"></div>
             </div>
             <span class="check-text text-x-black font-x-thin text-xl lg:text-2xl text-center">
-                Your message sent Successfully.<br /> We'll contact you as soon as possible.
+                Votre message a été envoyé avec succès.<br />Nous vous contacterons dans les plus brefs délais
             </span>
         </div>
     </section>
